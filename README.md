@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/great-course/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/great-course/edit/master/README.md)
 
 [History-s Great Military Blunders and the Lessons They Teach](History-s Great Military Blunders and the Lessons They Teach)
 
@@ -10,4 +10,4 @@
 
 [great-course4: Science in the Twentieth Century (PT. 1) A Social-intellectual Survey](https://littleflute.github.io/great-course4/)
 
-[https://littleflute.github.io/great-course5](https://littleflute.github.io/great-course5)
+[great-course5: Books That Have Made History](https://littleflute.github.io/great-course5)
